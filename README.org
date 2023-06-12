@@ -1,0 +1,10 @@
+* database-migrations
+
+Migrations for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/madnificent/database-migrations.git   |
+| commit  | e8691ef  |
+| systems | database-migrations |
+|---------+-------------------------------------------|
+
